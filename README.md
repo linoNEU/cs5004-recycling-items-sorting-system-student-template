@@ -11,7 +11,7 @@ In this lab, you will create a Recycling Items Sorting System designed to sort v
 
 ### Project's Diagram
 Please review the following diagram to become familiar with the structure of the code and the relationships between classes and interfaces (we have hidden information about the fields so that you can focus on the methods and relationships).
-![Recycling Items Sorting System](res/Recycling Items Sorting System Diagram.png)
+![Recycling Items Sorting System](https://github.com/linoNEU/cs5004-recycling-items-sorting-system-student-template/blob/5288a299b82579dd8fcca1d0d545bbb876711d18/res/Recycling%20Items%20Sorting%20System%20Diagram.png?raw=true)
 
 These are the high-level components of the system:
 
